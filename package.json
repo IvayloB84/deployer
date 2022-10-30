@@ -1,0 +1,24 @@
+{
+  "name": "deployer",
+  "version": "1.0.0",
+  "description": "nodejs deployment task with github",
+  "main": "setup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvayloB84/deployer.git"
+  },
+  "keywords": [
+    "deployer",
+    "nodejs",
+    "servers"
+  ],
+  "author": "IvayloB84",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvayloB84/deployer/issues"
+  },
+  "homepage": "https://github.com/IvayloB84/deployer#readme"
+}
